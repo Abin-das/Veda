@@ -468,9 +468,12 @@ font-family: 'Montserrat', sans-serif;
         color: #000000;
       }
       .doctor-name{
-        padding: 10px;
-        height: 80px;
+          padding: 10px;
+        height: 100px;
         width: 300px;
+        text-align: center;
+        justify-content: center;
+    
     margin: auto;
       
         
