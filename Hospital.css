@@ -456,12 +456,12 @@ font-family: 'Montserrat', sans-serif;
         transition: 0.3s all linear;
       }
       .doctor-item.style-1 .doctor-inner .doctor-content .doctor-name h4 a {
-        font-size: 14px;
+        font-size: 13px;
         color: #fff;
       }
       .doctor-item .style-1 .doctor-inner .doctor-content .doctor-name p {
         color: #fff;
-        font-size: 18px;
+        font-size: 20px;
         font-family: var(--lg-font);
       }
       .doctor-item.style-1 .doctor-inner .doctor-content .doctor-contact:before {
