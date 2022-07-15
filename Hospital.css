@@ -54,6 +54,13 @@ font-family: 'Montserrat', sans-serif;
 .coll{
 	background:#89cff0;
 }
+.doctor-section
+{
+  font-family:  var(--sm-font);
+}
+.feature-section {
+  font-family:  var(--sm-font);
+}
 
 .nav-item{
   
